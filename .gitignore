@@ -13,15 +13,6 @@ Desktop.ini
 *.rar
 *.iso
 
-# Optional export folder contents can be committed selectively
+# Export builds are usually generated artifacts
 exports/*
 !exports/.gitkeep
-
-# Notes folder can be used for markdown or text only
-notes/*
-!notes/.gitkeep
-
-# Source folder placeholder
-source/*
-!source/.gitkeep
-
