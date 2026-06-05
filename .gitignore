@@ -1,0 +1,27 @@
+# World Builder / CoH editor noise
+*.tmp
+*.bak
+*.old
+*.log
+*.cache
+Thumbs.db
+Desktop.ini
+
+# Common archive/build outputs
+*.zip
+*.7z
+*.rar
+*.iso
+
+# Optional export folder contents can be committed selectively
+exports/*
+!exports/.gitkeep
+
+# Notes folder can be used for markdown or text only
+notes/*
+!notes/.gitkeep
+
+# Source folder placeholder
+source/*
+!source/.gitkeep
+
